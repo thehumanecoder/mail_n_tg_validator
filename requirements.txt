@@ -1,0 +1,5 @@
+dnspython==2.6.1
+email_validator==2.1.1
+idna==3.7
+py4j==0.10.9.7
+pyspark==3.5.1
